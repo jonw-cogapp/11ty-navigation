@@ -1,5 +1,5 @@
 ---
 eleventyNavigation:
-  key: Bats
+  key: humans
   parent: Mammals
 ---
